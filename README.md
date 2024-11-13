@@ -15,8 +15,6 @@ The **Introduction to Data Science** course covers foundational concepts in data
 
 ## Assignments
 Assignments are located in the `assignments` folder. Each assignment folder contains:
-- `instructions.md` – Detailed instructions and objectives for the assignment
-- `data/` – Any data files needed for the assignment
 - `solution.ipynb` – Solution notebook with code and explanations
 
 ## Labs

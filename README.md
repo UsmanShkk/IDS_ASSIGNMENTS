@@ -22,8 +22,3 @@ Labs are located in the `labs` folder. Labs provide hands-on experience with var
 - `instructions.md` – Step-by-step instructions for the lab session
 - `notebook.ipynb` – Notebook used during the lab
 
-## Resources
-Additional resources related to the course can be found in the `resources` folder, including:
-- Reference guides
-- Useful datasets
-- Recommended readings

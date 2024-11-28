@@ -15,10 +15,10 @@ The **Introduction to Data Science** course covers foundational concepts in data
 
 ## Assignments
 Assignments are located in the `assignments` folder. Each assignment folder contains:
-- `solution.ipynb` – Solution notebook with code and explanations
+- `solution.ipynb` – Solution notebook with code and explanation
 
 ## Labs
 Labs are located in the `labs` folder. Labs provide hands-on experience with various data science techniques and tools. Each lab folder contains:
-- `instructions.md` – Step-by-step instructions for the lab session
+- `instructions.md` – Step-by-step instructions for the lab sessions
 - `notebook.ipynb` – Notebook used during the lab
 
